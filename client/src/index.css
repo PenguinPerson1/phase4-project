@@ -19,6 +19,7 @@ body {
 #header{
   height: 50px;
   padding: 20px;
+  width: 100%;
   text-transform: uppercase;
 }
 
